@@ -1,0 +1,16 @@
+Bot:
+  name: Enter bot name
+  author: Enter author name
+  email: Enter author email
+  version: 1.0.0
+
+Telegram:
+  Bot:
+    token: "ENTER_YOUR_BOT_TOKEN"
+    Admins:
+    #- 12345678
+    #- 87654321
+
+Logging:
+  level: INFO
+  format: '[%(levelname)s] %(asctime)s - %(message)s'
