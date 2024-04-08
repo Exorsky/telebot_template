@@ -1,10 +1,9 @@
 ### Features
 
-- Easy to use structure. All files are in different folders
-- Thats all :)
-
-### To-Do
-- Add database connection template (at least sqlite3)
+- Easy to use structure, all files are separated in folders
+- Simple antispam function
+- Handling admin/user commands
+- Handling local sqlite3 database
 
 ### Project structure
 Directory path  | For what its used
